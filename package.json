@@ -1,5 +1,5 @@
 {
-  "name": "Async-Control-Flow",
+  "name": "File-Management-in-Node.js",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/Async-Control-Flow.git"
+    "url": "git+https://github.com/acciojob/File-Management-in-Node.js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/Async-Control-Flow/issues"
+    "url": "https://github.com/acciojob/File-Management-in-Node.js/issues"
   },
-  "homepage": "https://github.com/acciojob/Async-Control-Flow#readme",
+  "homepage": "https://github.com/acciojob/File-Management-in-Node.js#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
